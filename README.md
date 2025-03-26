@@ -7,11 +7,9 @@
 
 ## 🚀 Tính năng chính
 
-✅ Hiển thị sao kê giao dịch từ thiện trực tiếp trên website.  
+✅ Hiển thị sao kê giao dịch từ thiện trên website.  
 ✅ Tìm kiếm và lọc theo từ khóa, ngày tháng.  
 ✅ Phân trang để hiển thị danh sách giao dịch dài.  
-✅ Giao diện thân thiện, dễ sử dụng.  
-✅ Tích hợp API ngân hàng linh hoạt.  
 
 ## 🍃 Live Demo
 - **Website**: [https://thiennguyenminhphuoc.com/tai-chinh/](https://thiennguyenminhphuoc.com/tai-chinh/)  
