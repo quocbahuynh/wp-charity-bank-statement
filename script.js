@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     html += `
                         <tr>
                             <td>${formatDateTime(transaction.transactionTime)}</td>
-                            <td>${amountSign}</td>
+                            <td class="${amountColor}>${amountSign}</td>
                             <td>${transaction.narrative}</td>
                         </tr>
                     `;
