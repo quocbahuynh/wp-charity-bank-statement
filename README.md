@@ -1,6 +1,8 @@
 # Charity Bank Statement - WordPress Plugin
 
 **Charity Bank Statement** là một plugin WordPress dành riêng cho các tổ chức thiện nguyện được MB BANK xác nhận  giúp hiển thị sao kê giao dịch ngân hàng của tổ chức từ thiện một cách minh bạch và chuyên nghiệp lên Website. Plugin cho phép người dùng tìm kiếm, lọc và phân trang danh sách giao dịch từ MB ngân hàng.
+![Charity Bank Statement là plugin WordPress dành cho tổ chức thiện nguyện được MB BANK xác nhận, giúp hiển thị sao kê giao dịch minh bạch trên website  Hỗ trợ tìm kiếm, lọc và phân trang giao dịch](https://github.com/user-attachments/assets/9a2efaea-3c7b-481a-801b-e6fb86e619d4)
+
 
 ## 🚀 Tính năng chính
 
